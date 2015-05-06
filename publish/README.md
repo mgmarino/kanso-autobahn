@@ -1,0 +1,25 @@
+kanso-autobahn
+===================
+
+autobahn wrapped for kan.so 
+
+Provides Web Application Messaging Protocol (WAMP) and Remote Procedure Call
+(RPC), and allows building polyglot applications (currently 8 supported
+languages) using [crossbar](http://crossbar.io).
+
+This is currently version 0.9.6.  The website is:
+
+http://autobahn.ws
+
+Usage
+-----
+
+General usage:
+
+```
+var autobahn = require("autobahn");
+```
+
+More information concerning the API for the rich autobahn framework can be
+found on the above webpage.  
+

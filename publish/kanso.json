@@ -1,0 +1,19 @@
+{
+    "name": "autobahn",
+    "version": "0.9.6-kanso.1",
+    "categories": ["utils"],
+    "maintainers": [
+        {
+            "name": "Michael Marino",
+            "url": "https://github.com/mgmarino"
+        }
+    ],
+    "url": "http://autobahn.ws",
+    "modules": "autobahn.js",
+    "modules_attachment": false,
+    "dependencies": {
+        "modules": null,
+        "attachments": null
+    },
+    "description": "autobahn provides WAMP, RPC functionality and simplifies building cross-language applications"
+}
